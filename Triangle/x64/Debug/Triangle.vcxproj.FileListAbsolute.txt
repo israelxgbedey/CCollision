@@ -1,0 +1,3 @@
+C:\Users\markg\source\repos\Triangle\x64\Debug\glew32d.dll
+C:\Users\markg\source\repos\Triangle\x64\Debug\glfw3.dll
+C:\Users\markg\source\repos\Triangle\Triangle\x64\Debug\Triangle.vcxproj.Up2Date

@@ -1,0 +1,6 @@
+﻿  Triangle.cpp
+C:\Users\markg\source\repos\Triangle\Triangle.cpp(213,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\markg\source\repos\Triangle\Triangle.cpp(238,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.vcxproj -> C:\Users\markg\source\repos\Triangle\x64\Debug\Triangle.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
